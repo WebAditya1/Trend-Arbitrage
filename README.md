@@ -180,4 +180,7 @@ trend-arbitrage/
 
 <img width="1419" height="825" alt="Screenshot 2026-02-01 at 3 33 51 PM" src="https://github.com/user-attachments/assets/ac527417-9e30-452f-8a10-21545e55d24b" />
 
+<img width="1174" height="734" alt="Screenshot 2026-02-01 at 3 35 35 PM" src="https://github.com/user-attachments/assets/97d323d5-66b5-496a-b0b8-45a45b140bcb" />
+
+
 
