@@ -177,3 +177,7 @@ trend-arbitrage/
 │   └── src/                  # React app
 └── README.md
 ```
+
+<img width="1419" height="825" alt="Screenshot 2026-02-01 at 3 33 51 PM" src="https://github.com/user-attachments/assets/ac527417-9e30-452f-8a10-21545e55d24b" />
+
+
